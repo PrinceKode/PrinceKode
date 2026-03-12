@@ -1,7 +1,5 @@
-
-Demo - Simple Spring Program
 # JDBC - Java Database Connectivity
-
+# Demo - Simple Spring Program
 <!--
 **PrinceKode/PrinceKode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
