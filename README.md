@@ -1,4 +1,4 @@
-## Hi there 👋#jdbc
+## Hi there 
 JDBC-Java DataBase Connectivity
 
 <!--
